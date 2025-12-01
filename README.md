@@ -1,4 +1,4 @@
-# Chemical-PFD_WebDesktop
+# Chemical-PFD_Web-Desktop
 
 Web + Desktop Application for IIT Bombay
 Tech Stack:
